@@ -29,9 +29,9 @@ O projeto foi desenvolvido com as seguintes ferramentas:
 
 ### ​👷‍♂️​ Acessar o Projeto
 
-<a href="https://github.com/devfullmaster/StarBuck/tree/main">Acesse aqui</a>🔗 o código fonte pelo GitHub.
+<a href="https://github.com/devfullmaster/Projeto-StarBucks/tree/main">Acesse aqui</a>🔗 o código fonte pelo GitHub.
 
-Faça o <a href="https://github.com/devfullmaster/StarBuck/archive/refs/heads/main.zip">Download aqui</a>🔗 do código fonte no formato zip.
+Faça o <a href="https://github.com/devfullmaster/Projeto-StarBucks/archive/refs/heads/main.zip">Download aqui</a>🔗 do código fonte no formato zip.
 
 Clone o repositório:
 
