@@ -23,7 +23,7 @@ O projeto foi desenvolvido com as seguintes ferramentas:
 
 ---
 
-### 🚀 ​ [Clique aqui](https://star-buck.vercel.app/)🔗 e veja o projeto no ar.
+### 🚀 ​ [Clique aqui](https://projeto-star-bucks.vercel.app/)🔗 e veja o projeto no ar.
 
 ---
 
